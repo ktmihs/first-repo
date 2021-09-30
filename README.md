@@ -10,3 +10,8 @@ git remote add addr
 git branch -M rename
 git push -u remotename branchname
 ```
+
+### installation
+
+You don't need any packages for this project.
+
